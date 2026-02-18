@@ -168,10 +168,9 @@ Images are fed at their native 960×540 resolution. If GPU memory is a constrain
 
 | Split | Size | IoU |
 |---|---|---|
-| Train | 2,859 | TBD |
-| Validation | 317 | TBD |
+| Training | 2,859 | 0.86 |
+| Validation | 317 | 0.73 |
 
-> Fill in results after training completes.
 
 ---
 
